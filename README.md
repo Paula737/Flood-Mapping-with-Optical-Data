@@ -33,8 +33,12 @@ This project builds an **end-to-end pipeline** for **flood detection and segment
 - **Model Development**  
   - **Custom U-Net** with EfficientNetB0 encoder.  
   - Adapted for **10-band multispectral input**.  
-  - Metrics: **Loss, Accuracy, Mean IoU**.  
-
+  - Metrics: **Loss, Accuracy, Mean IoU**.
+  - 
+- **Deployment**  
+  - Integrated into a **Flask web app**.  
+  - Users can upload satellite images.  
+  - Model runs inference and returns **flood maps in real-time**. 
 ---
 
 ## 🛠️ Technology Stack  
