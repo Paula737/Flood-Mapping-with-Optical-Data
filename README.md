@@ -55,5 +55,8 @@ This project builds an **end-to-end pipeline** for **flood detection and segment
 
 ---
 
-## 📂 Repository Structure  
+👨‍💻 Author
 
+✨ 𝑬𝒏𝒈. 𝒫𝒶𝓊𝓁𝒶 𝐻𝒶𝓃𝓃𝒶 𝒩𝒶𝑔𝓊𝒾𝒷 ✨
+
+📌 “Knowledge is power. Applying AI to disaster management transforms information into life-saving insights.”
